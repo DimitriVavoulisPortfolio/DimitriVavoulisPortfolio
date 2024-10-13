@@ -26,13 +26,13 @@
 <tr><th>Machine Learning </th></tr>
 <tr><td>
 
-|Title | Specialty | Field Usage|
-|--|--|--|
-| [Serverless Sentiment Analysis for Product Reviews with Big Data *](https://github.com/DimitriVavoulisPortfolio/aws-serverless-nlp-sentiment-4M-product-reviews) | Natural Language Processing (NLP) | Market Research Tool|
-| [X-Ray Bone Fracture Detection App](https://github.com/DimitriVavoulisPortfolio/x-ray-bone-fracture-detection-app) | Computer Vision | Clinical SaaS|
-| [Industrial Egg Fertility Sorting System *](https://github.com/DimitriVavoulisPortfolio/aws-computer-vision-industrial-egg-fertility-sorting-system) | Computer Vision | Industrial Sorter|
-| [Customizable Real Estate Market Forecasting Tool *](https://github.com/DimitriVavoulisPortfolio/customizable-real-estate-market-forecasting-tool) | Time Series | Market Forecasting Tool|
-| [Serverless Sentiment Analysis for Service Reviews](https://github.com/DimitriVavoulisPortfolio/aws-serverless-nlp-sentiment-700k-service-reviews) | Natural Language Processing (NLP) | Market Research Tool
+|Title | Field Usage|
+|--|--|
+| [Serverless Sentiment Analysis for Product Reviews with Big Data *](https://github.com/DimitriVavoulisPortfolio/aws-serverless-nlp-sentiment-4M-product-reviews) | Product Sentiment Market Research Tool|
+| [X-Ray Bone Fracture Detection App](https://github.com/DimitriVavoulisPortfolio/x-ray-bone-fracture-detection-app) | Clinical SaaS|
+| [Industrial Egg Fertility Sorting System *](https://github.com/DimitriVavoulisPortfolio/aws-computer-vision-industrial-egg-fertility-sorting-system) | Industrial Sorter|
+| [Customizable Real Estate Market Forecasting Tool *](https://github.com/DimitriVavoulisPortfolio/customizable-real-estate-market-forecasting-tool) | Real Estate Market Forecasting Tool|
+| [Serverless Sentiment Analysis for Service Reviews](https://github.com/DimitriVavoulisPortfolio/aws-serverless-nlp-sentiment-700k-service-reviews) | Service Sentiment Market Research Tool
     
 </td></tr> </table>
 
