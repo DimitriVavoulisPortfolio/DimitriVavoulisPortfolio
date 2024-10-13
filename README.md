@@ -17,3 +17,44 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 <br/> 
+
+* Mostly Machine Learning, currently on releasing about 1 project a week
+
+### 🖥️ Curated list of Open-Source Machine Learning Projects and others
+"*": Accuracy >98% 
+<table>
+<tr><th>Machine Learning </th></tr>
+<tr><td>
+
+|Title | Specialty | Field Usage|
+|--|--|--|
+| [Serverless Sentiment Analysis for Product Reviews with Big Data *](https://github.com/DimitriVavoulisPortfolio/aws-serverless-nlp-sentiment-4M-product-reviews) | Natural Language Processing (NLP) | Market Research Tool|
+| [X-Ray Bone Fracture Detection App](https://github.com/DimitriVavoulisPortfolio/x-ray-bone-fracture-detection-app) | Computer Vision | Clinical SaaS|
+| [Industrial Egg Fertility Sorting System *](https://github.com/DimitriVavoulisPortfolio/aws-computer-vision-industrial-egg-fertility-sorting-system) | Computer Vision | Industrial Sorter|
+| [Customizable Real Estate Market Forecasting Tool *](https://github.com/DimitriVavoulisPortfolio/customizable-real-estate-market-forecasting-tool) | Time Series | Market Forecasting Tool|
+| [Serverless Sentiment Analysis for Service Reviews](https://github.com/DimitriVavoulisPortfolio/aws-serverless-nlp-sentiment-700k-service-reviews) | Natural Language Processing (NLP) | Market Research Tool
+    
+</td></tr> </table>
+
+<table>
+<tr><th>Notable Others </th></tr>
+<tr><td>
+
+|Title | Description|
+|--|--|
+| [Hurricane Control Center](https://github.com/DimitriVavoulisPortfolio/aws-hurricane-control-center) | System with **real-time monitoring** and **email/phone notifications** about potential **hurricane threats** |
+
+</td></tr> </table>
+
+<details>
+<summary>📈 Stats</summary>
+<br>
+My Github Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DimitriVavoulisPortfolio&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DimitriVavoulisPortfolio&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DimitriVavoulisPortfolio&theme=dracula)
+
+
+<br>
