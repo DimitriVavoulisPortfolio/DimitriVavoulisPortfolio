@@ -42,7 +42,7 @@
 
 |Title | Description|
 |--|--|
-| [Hurricane Control Center](https://github.com/DimitriVavoulisPortfolio/aws-hurricane-control-center) | System with **real-time monitoring** and **email/phone notifications** about potential **hurricane threats** |
+| [Hurricane Control Center](https://github.com/DimitriVavoulisPortfolio/aws-hurricane-control-center) | Site with **real-time monitoring** and **email/phone notifications** about potential **hurricane threats** |
 
 </td></tr> </table>
 
