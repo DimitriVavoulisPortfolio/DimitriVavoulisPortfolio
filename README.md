@@ -1,5 +1,7 @@
 <p align="center">
-
+<a href="https://github.com/DimitriVavoulisPortfolio">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=18&duration=2000&pause=50&color=2D4AF7&multiline=true&repeat=false&width=500&height=100&lines=Dimitri+Vavoulis;Machine+Learning;Computer+Vision+%7C+NLP+%7C+Time+Series" />
+</a>
 
 <br/>
 <a href="https://github.com/DimitriVavoulisPortfolio/CV/blob/main/Dimitri%20Vavoulis%20CV.pdf">
