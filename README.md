@@ -4,6 +4,9 @@
 </a>
 
 <br/>
+<a href="https://www.hurricanecontrol.com">
+    <img src="https://img.shields.io/badge/Website-Hurricane Control Center-red?style=flat-square">
+</a>  
 <a href="https://github.com/DimitriVavoulisPortfolio/CV/blob/main/Dimitri%20Vavoulis%20CV.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
@@ -14,7 +17,3 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 <br/> 
-
-</p> 
-
-
