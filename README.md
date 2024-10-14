@@ -32,8 +32,9 @@
 | [X-Ray Bone Fracture Detection App](https://github.com/DimitriVavoulisPortfolio/x-ray-bone-fracture-detection-app) | Clinical SaaS|
 | [Industrial Egg Fertility Sorting System *](https://github.com/DimitriVavoulisPortfolio/aws-computer-vision-industrial-egg-fertility-sorting-system) | Industrial Sorter|
 | [Customizable Real Estate Market Forecasting Tool *](https://github.com/DimitriVavoulisPortfolio/customizable-real-estate-market-forecasting-tool) | Real Estate Market Forecasting Tool|
+| [Movie Streaming Personalized Recommendation Engine](https://github.com/DimitriVavoulisPortfolio/movie-streaming-personalized-recommendation-engine) | Movie Streaming Recommendation Engine|
 | [Serverless Sentiment Analysis for Service Reviews](https://github.com/DimitriVavoulisPortfolio/aws-serverless-nlp-sentiment-700k-service-reviews) | Service Sentiment Market Research Tool
-    
+
 </td></tr> </table>
 
 <table>
