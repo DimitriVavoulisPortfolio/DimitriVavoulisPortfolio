@@ -19,6 +19,7 @@
 <br/> 
 
 * Mostly Machine Learning, currently on releasing 1 project a week
+* Upcoming project: "Rescuer-seeker: AI-Powered Aerial Human Detection for Disaster Response"
 
 ### 🖥️ Curated list of Open-Source Machine Learning Projects and others
 "*": Accuracy >98% 
