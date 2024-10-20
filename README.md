@@ -19,7 +19,7 @@
 <br/> 
 
 * Mostly Machine Learning, currently on releasing 1 project a week
-* Upcoming project: "Rescuer-seeker: AI-Powered Aerial Search for Rapid Rescue Operations"
+* Upcoming project: "AgriDrone"
 
 ### 🖥️ Curated list of Open-Source Machine Learning Projects and others
 "*": Accuracy >98% 
