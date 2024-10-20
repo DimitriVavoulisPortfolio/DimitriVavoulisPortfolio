@@ -30,6 +30,7 @@
 |Title | Field Usage|
 |--|--|
 | [Serverless Sentiment Analysis for Product Reviews with Big Data *](https://github.com/DimitriVavoulisPortfolio/aws-serverless-nlp-sentiment-4M-product-reviews) | Product Sentiment Market Research Tool|
+| [Rescuer-seeker: AI-Powered Aerial Search for Rapid Rescue Operations](https://github.com/DimitriVavoulisPortfolio/Rescuer-seeker-aerial-ai) | Aerial Drone Detection for Rescue Operations|
 | [X-Ray Bone Fracture Detection App](https://github.com/DimitriVavoulisPortfolio/x-ray-bone-fracture-detection-app) | Clinical SaaS|
 | [Industrial Egg Fertility Sorting System *](https://github.com/DimitriVavoulisPortfolio/aws-computer-vision-industrial-egg-fertility-sorting-system) | Industrial Sorter|
 | [Customizable Real Estate Market Forecasting Tool *](https://github.com/DimitriVavoulisPortfolio/customizable-real-estate-market-forecasting-tool) | Real Estate Market Forecasting Tool|
