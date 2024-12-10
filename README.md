@@ -18,9 +18,6 @@
 </a>
 <br/> 
 
-* Mostly Machine Learning, currently on releasing 1 project a week
-* Upcoming project: "AgriDrone"
-
 ### 🖥️ Curated list of Open-Source Machine Learning Projects and others
 "*": Accuracy >98% 
 <table>
