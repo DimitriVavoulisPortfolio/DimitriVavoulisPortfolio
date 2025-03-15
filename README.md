@@ -1,3 +1,6 @@
+Dimitri+Vavoulis
+Machine+Learning
+Computer+Vision+%7C+NLP+%7C+Time+Series
 <a href="https://github.com/DimitriVavoulisPortfolio">
     <img src="font=Fira&color=232323&width=500&height=100&lines=Dimitri+Vavoulis;Machine+Learning;Computer+Vision+%7C+NLP+%7C+Time+Series" />
 </a>
