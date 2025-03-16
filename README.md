@@ -5,7 +5,7 @@
 <p align="center">
 <br/>
 <a href="https://www.dimitrivavoulis.com">
-    <img src="https://img.shields.io/badge/Website-Developer Site-red?style=flat-square">
+    <img src="https://img.shields.io/badge/Website-www.dimitrivavoulis.com-red?style=flat-square">
 </a>  
 <a href="https://github.com/DimitriVavoulisPortfolio/CV/blob/main/Dimitri%20Vavoulis%20CV.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
