@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Website-www.dimitrivavoulis.com-red?style=flat-square">
 </a>  
 <a href="https://www.wonktax.com/">
-    <img src="https://img.shields.io/badge/WonkTax-red?style=flat-square">
+    <img src="https://img.shields.io/badge/WonkTax-Calculator-red?style=flat-square">
 </a>  
 <a href="mailto:dimitrivavoulis3@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
