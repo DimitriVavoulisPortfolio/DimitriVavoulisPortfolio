@@ -37,7 +37,6 @@
 |Title | Description|
 |--|--|
 | [Hurricane Control Center](https://github.com/DimitriVavoulisPortfolio/aws-hurricane-control-center) | Site with **real-time monitoring** and **email/phone notifications** about potential **hurricane threats** |
-| [WonkTax](https://github.com/DimitriVavoulisPortfolio/free-form) | Tax calculator site for federal, state and local income taxes |
 
 </td></tr> </table>
 
